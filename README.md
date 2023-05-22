@@ -1,6 +1,6 @@
 # DDL Cookie Consent - Production
 
-_https://www.jsdelivr.com/github links:_
+##https://www.jsdelivr.com/github links:
 
 https://cdn.jsdelivr.net/gh/dental-design/cookie-consent@main/cookie-styles.css
 
